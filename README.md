@@ -1,7 +1,7 @@
 # BIL346Proje-Image_Processing-
 In this project based on Object detection and Object Tracking, Our aim is that controlling the Snake Game
 
-** Highly Recommended before Start the game Track to Color with TrackColor.py **
+**Highly Recommended before Start the game Track to Color with TrackColor.py**
 
 
 - [x] Tracking Color(with TrackColor.py)
