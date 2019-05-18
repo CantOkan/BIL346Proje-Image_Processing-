@@ -5,7 +5,7 @@ In this project based on Object detection and Object Tracking, Our aim is that c
 **Highly Recommended before Start the game Track to Color with TrackColor.py**
 
 
-**than change the this parameters**
+**than change  this parameters**
  ```
 #low:105 #high:135 for blue
 
